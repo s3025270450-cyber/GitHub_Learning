@@ -1,0 +1,1 @@
+调用本地大模型LM studio的AI_HelloWord
